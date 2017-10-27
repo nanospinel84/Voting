@@ -1,0 +1,29 @@
+{
+  "name": "voting",
+  "version": "1.0.0",
+  "description": "A simple smart contract and GUI for voting purpose",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanospinel84/Voting.git"
+  },
+  "keywords": [
+    "smart",
+    "contract",
+    "solidity",
+    "blockchain",
+    "voting"
+  ],
+  "author": "Rafael Espinel <nanospinel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanospinel84/Voting/issues"
+  },
+  "homepage": "https://github.com/nanospinel84/Voting#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
